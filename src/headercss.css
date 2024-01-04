@@ -1,0 +1,29 @@
+.Header-comp{
+    width: 100%;
+    height: 30%;
+    padding: 10px;
+    background-color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    .Header-comp h1{
+    text-align:center;
+    text-transform: uppercase;
+    color: azure;
+    padding: 10px;
+    margin: 0;
+    
+    }
+    .Header-comp img{
+    object-fit:contain;
+    object-position: 20% 10%;
+    width:100px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 20px;
+    
+    }

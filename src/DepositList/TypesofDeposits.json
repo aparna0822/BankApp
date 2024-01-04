@@ -1,0 +1,46 @@
+{
+    "typesOfDeposits":[
+        {
+            "id":1,
+            "Name":"Ashok",
+            "date":"20-11-2024",
+            "depositName":"Savings Account"
+
+        },
+        {
+            "id":2,
+            "Name":"Sanja",
+            "date":"23-6-2024",
+            "depositName" :"Current Account"
+
+        },
+        {
+            "id":3,
+            "Name":"Harshini",
+            "date":"13-8-2023",
+            "depositName" :"Fixed Deposit Account"
+
+        },
+        {
+            "id":4,
+            "Name":"Santosh",
+            "date":"23-10-2023",
+            "depositName" :"Recurring Deposit Account"
+
+        },
+        {
+            "id":5,
+            "Name":"Suresh",
+            "date":"01-01-2024",
+            "depositName" :"Flexi Deposit Account"
+
+        },
+        {
+            "id":6,
+            "Name":"Teja",
+            "date":"02-6-2024",
+            "depositName" :"Time Deposit Account"
+
+        }
+    ]
+}

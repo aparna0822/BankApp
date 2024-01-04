@@ -1,0 +1,43 @@
+
+{
+    "payeeList":[
+        {
+            "transaction_id":6,
+            "Name": "sai",
+            "date":"25-11-2023",
+             "Amount": 500,
+            "CreditorDebit": "credit"
+            
+        },
+        {
+            "transaction_id":7,
+            "Name": "Praveen",
+            "date":"25-11-2023",
+             "Amount": 500,
+            "CreditorDebit": "credit"
+        },
+        {
+        "transaction_id":8,
+        "Name": "Surya",
+        "date":"25-11-2023",
+         "Amount": 500,
+        "CreditorDebit": "debit"
+        },
+        {
+            "transaction_id":9,
+            "Name": "pavan",
+            "date":"25-11-2023",
+             "Amount": 500,
+            "CreditorDebit": "credit"
+        
+        },
+        {
+            "transaction_id":10,
+            "Name": "pratheek",
+            "date":"25-11-2023",
+             "Amount": 500,
+            "CreditorDebit": "credit"
+        }
+
+    ]
+}

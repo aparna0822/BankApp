@@ -1,0 +1,66 @@
+{
+  "Transactions-info": [
+    {
+      "id": "1",
+      "Name": "John",
+      "date": "25-11-2023",
+      "Amount": 500,
+      "CreditorDebit": "credit",
+      "depositName": "Savings Account"
+    },
+    {
+      "id": "2",
+      "Name": "Sruthi",
+      "date": "28-11-2023",
+      "Amount": 1000,
+      "CreditorDebit": "debit",
+      "depositName": "Current Account"
+    },
+    {
+      "id": "3",
+      "Name": "Joshna",
+      "date": "31-12-2023",
+      "Amount": 350,
+      "CreditorDebit": "credit",
+      "depositName": "Fixed Deposit Account"
+    },
+    {
+      "id": "4",
+      "Name": "Joy",
+      "date": "20-12-2022",
+      "Amount": 500,
+      "CreditorDebit": "credit",
+      "depositName": "Recurring Deposit Account"
+    },
+    {
+      "id": "5",
+      "Name": "Josh",
+      "date": "10-10-2023",
+      "Amount": 2500,
+      "CreditorDebit": "debit",
+      "depositName": "Flexi Deposit Account"
+    },
+    {
+      "id": "6",
+      "Name": "Rohit",
+      "date": "20-10-2023",
+      "Amount": 6000,
+      "CreditorDebit": "credit",
+      "depositName": "Time Deposit Account"
+    },
+    {
+      "id": "A-KUh4u",
+      "name": "pratheek",
+      "date": "2024-01-03T15:52:32.767Z",
+      "Amount": 10,
+      "CreditorDebit": "Credit"
+    },
+    {
+      "id": "oHGA8Y4",
+      "depositName": "Fixed Deposit Account",
+      "date": "Wed Jan 03 2024 21:22:42 GMT+0530 (India Standard Time)",
+      "Amount": 100,
+      "CreditorDebit": "debit"
+    }
+  ]
+}
